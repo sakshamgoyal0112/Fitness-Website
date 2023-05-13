@@ -1,2 +1,2 @@
 # Fitness-Website
-My Fitness Website from complete Web Developer
+My Fitness Website from complete Full Stack Developer.
